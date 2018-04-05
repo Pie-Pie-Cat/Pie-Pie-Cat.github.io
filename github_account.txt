@@ -1,0 +1,21 @@
+Username
+
+Pie-Pie-Cat
+This will be your username. You can add the name of your organization later.
+Email address
+
+xuxiaolai1984@gmail.com
+
+
+password is the ydm password
+
+
+Create an organization account
+Organization name
+
+Pie-Pie-Cat-Tech
+This will be your organization name on https://github.com/Pie-Pie-Cat-Tech.
+Billing email
+
+xuxiaolai1984@gmail.com
+We'll send receipts to this inbox.

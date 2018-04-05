@@ -1,0 +1,23 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Face To Face Dating App
+  url: "/hi-there/"
+  side: left
+  
+- title: Nearrange Information Sharing App
+  url: "/guess-what/"
+  side: left
+  
+- title: Nearrange Disappearing Messaging App
+  url: "/poof/"
+  side: left
+  
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
