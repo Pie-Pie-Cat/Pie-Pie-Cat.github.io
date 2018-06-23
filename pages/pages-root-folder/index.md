@@ -11,11 +11,17 @@ subheadline: "Our Mission"
 teaser: "Can you imagine a social network that does not rely on Internet connectivity, and by nature does not collect user information at all?<br /><br />
 Yes, you are not crazy.<br />
 Using Short-Range Wireless Communication technologies, Pie Pie Cat Tech helps connect every nearby mobile phones directly with each other, without having to connect to any cell phone towers in between, creating unprecedented social experiences you've never seen before.<br /><br />
-Pie Pie Cat Tech is the one stop shop where you can find social networks that
-- Does not rely on the Internet.
-- Will not be impacted by the repeal of Net Neutrality rules.
-- Fully complies with China’s new cybersecurity law.
-- And fully complies with the GDPR too<br /><br />
+Pie Pie Cat Tech is the one stop shop where you can find social networks that:<br />
+- Does not rely on the Internet.<br />
+- Will not be impacted by the repeal of Net Neutrality rules.<br />
+- Fully complies with China’s new cybersecurity law.<br />
+- And fully complies with the GDPR too.<br /><br />
+Use Cases:</br>
+
+- Inflight Entertainment solution for airplane passengers.</br>
+- Also for users in other densely populated areas (optionally, where Internet connection is not always stable)</br> 
+- In subway cars, airport lounges, train station waiting rooms, bullet trains, etc.</br>
+- Or in countries there is not such a thing as Net Neutrality.</br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <i>Say no to User info collection!</i><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <i>Say no to User data breach!</i><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <i>Say no to Net Neutrality violation!</i><br />
