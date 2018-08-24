@@ -25,7 +25,7 @@ author: Pie Pie Cat Tech
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://127.0.0.1:4000/'
+url: 'https://Pie-Pie-Cat.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/Pie-Pie-Cat/Pie-Pie-Cat.github.io/edit/gh-pa
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://127.0.0.1:4000/images/'
+urlimg: 'https://Pie-Pie-Cat.github.io/images/'
 
 
 # Logo size is 600x80 pixels

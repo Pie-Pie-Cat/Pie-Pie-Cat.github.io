@@ -4,7 +4,8 @@ title: "Sharing moments just with someone nearby"
 subheadline: "Guess What"
 meta_teaser: "Spread information in an old fashioned way. (word of mouth way. Short-Range Based Wireless Communication technology is used, not the mouth, to be precise)"
 teaser: "<em>Spread information in an old fashioned way. (word of mouth way. Short-Range Based Wireless Communication technology is used, not the mouth, to be precise)</em>"
-header: no
+header:
+  image_fullwidth: galaxy.jpg
 categories:
 
 ---
@@ -25,8 +26,8 @@ categories:
 </ul>
 
 <a href="https://play.google.com/store/apps/details?id=com.wifidirect.ble.seanxu.guesswhat">
-<img src="http://127.0.0.1:4000/images/android_app_store.jpg" border="0">
+<img src="https://Pie-Pie-Cat.github.io/images/android_app_store.jpg" border="0">
 </a>
 <a href="https://itunes.apple.com/us/app/guess-what/id1323759368?ls=1&mt=8">
-<img src="http://127.0.0.1:4000/images/ios_app_store.jpg" border="0">
+<img src="https://Pie-Pie-Cat.github.io/images/ios_app_store.jpg" border="0">
 </a>

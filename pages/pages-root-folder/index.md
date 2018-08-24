@@ -5,9 +5,10 @@
 # this work, you have to use › layout: frontpage
 #
 layout: page-fullwidth
-header: no
+header:
+  image_fullwidth: galaxy.jpg
 title:  "Connecting People In A Way You've Never Seen Before"
-subheadline: "Our Mission"
+subheadline: "The Next Gen Social Networks"
 teaser: "Can you imagine a social network that does not rely on Internet connectivity, and by nature does not collect user information at all?<br /><br />
 Yes, you are not crazy.<br />
 Using Short-Range Wireless Communication technologies, Pie Pie Cat Tech helps connect every nearby mobile phones directly with each other, without having to connect to any cell phone towers in between, creating unprecedented social experiences you've never seen before.<br /><br />
@@ -32,7 +33,7 @@ breadcrumb: true
 layout: frontpage
 widget1:
   title: "HiThere: an anonymous face to face dating app"
-  url: 'http://127.0.0.1:4000/hi-there/'
+  url: 'https://Pie-Pie-Cat.github.io/hi-there/'
   image: hithere.jpg
   <!--image: widget-1-302x182.jpg-->
   text: '<i>Make your first move when you see someone attractive, realtime.</i>
@@ -48,7 +49,7 @@ widget1:
 </ul>'
 widget2:
   title: "Guess What: sharing moments just with someone nearby"
-  url: 'http://127.0.0.1:4000/guess-what/'
+  url: 'https://Pie-Pie-Cat.github.io/guess-what/'
   image: guesswhat.jpg
   text: "<i>Spread information in an old fashioned way. (word of mouth way. Short-Range Based Wireless Communication technology is used, not the mouth, to be precise)</i>
 <ul>
@@ -61,7 +62,7 @@ widget2:
 </ul>"
 widget3:
   title: "POOF: a near range disappearing messaging app"
-  url: 'http://127.0.0.1:4000/poof/'
+  url: 'https://Pie-Pie-Cat.github.io/poof/'
   image: poof.jpg
   <!--image: widget-github-303x182.jpg-->
   text: "<i>Providing a fun way to interact with nearby people, unprecedentedly.</i>
